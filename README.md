@@ -44,10 +44,8 @@ Brain MRI segmentation:
 
 [1] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 
-[2] [U-net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+[2] [UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation](https://arxiv.org/pdf/1912.05074.pdf)
 
-[3] [UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation](https://arxiv.org/pdf/1912.05074.pdf)
+[3] [ResUNet-a: a deep learning framework for semantic segmentation of remotely sensed data](https://arxiv.org/pdf/1904.00592.pdf)
 
-[4] [ResUNet-a: a deep learning framework for semantic segmentation of remotely sensed data](https://arxiv.org/pdf/1904.00592.pdf)
-
-[5] [Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm](https://arxiv.org/pdf/1906.03720.pdf)
+[4] [Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm](https://arxiv.org/pdf/1906.03720.pdf)
